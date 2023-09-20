@@ -1,0 +1,331 @@
+Criou todos os comandos de aplica��o,,,
+Creating firmware_iot_borda on device m-0-40
+Creating firmware_iot_borda on device m-0-41
+Creating firmware_iot_borda on device m-1-10
+Creating firmware_iot_borda on device m-0-42
+Creating firmware_iot_borda on device m-0-43
+Creating firmware_iot_borda on device m-1-12
+Creating firmware_iot_borda on device m-0-44
+Creating firmware_iot_borda on device m-1-11
+Creating firmware_iot_borda on device m-0-45
+Creating firmware_iot_borda on device m-1-14
+Creating firmware_iot_borda on device m-0-46
+Creating firmware_iot_borda on device m-1-13
+Creating firmware_iot_borda on device m-0-36
+Creating firmware_iot_borda on device m-0-37
+Creating firmware_iot_borda on device m-0-38
+Creating firmware_iot_borda on device m-0-39
+Creating firmware_iot_borda on device m-1-1
+Creating firmware_iot_borda on device m-1-0
+Creating firmware_iot_borda on device m-1-3
+Creating firmware_iot_borda on device m-1-2
+Creating firmware_iot_borda on device m-0-50
+Creating firmware_iot_borda on device m-1-9
+Creating firmware_iot_borda on device m-0-51
+Creating firmware_iot_borda on device m-1-8
+Creating firmware_iot_borda on device m-0-52
+Creating firmware_iot_borda on device m-1-21
+Creating firmware_iot_borda on device m-0-53
+Creating firmware_iot_borda on device m-1-20
+Creating firmware_iot_borda on device m-0-54
+Creating firmware_iot_borda on device m-1-5
+Creating firmware_iot_borda on device m-1-23
+Creating firmware_iot_borda on device m-0-55
+Creating firmware_iot_borda on device m-1-4
+Creating firmware_iot_borda on device m-1-22
+Creating firmware_iot_borda on device m-0-56
+Creating firmware_iot_borda on device m-1-7
+Creating firmware_iot_borda on device m-1-25
+Creating firmware_iot_borda on device m-0-57
+Creating firmware_iot_borda on device m-1-6
+Creating firmware_iot_borda on device m-1-24
+Creating firmware_iot_borda on device m-0-47
+Creating firmware_iot_borda on device m-1-16
+Creating firmware_iot_borda on device m-0-48
+Creating firmware_iot_borda on device m-1-15
+Creating firmware_iot_borda on device m-0-49
+Creating firmware_iot_borda on device m-1-18
+Creating firmware_iot_borda on device m-1-17
+Creating firmware_iot_borda on device m-1-19
+Creating firmware_iot_borda on device m-0-60
+Creating firmware_iot_borda on device m-0-61
+Creating firmware_iot_borda on device m-1-30
+Creating firmware_iot_borda on device m-0-62
+Creating firmware_iot_borda on device m-0-63
+Creating firmware_iot_borda on device m-1-32
+Creating firmware_iot_borda on device m-0-64
+Creating firmware_iot_borda on device m-1-31
+Creating firmware_iot_borda on device m-0-65
+Creating firmware_iot_borda on device m-1-34
+Creating firmware_iot_borda on device m-0-66
+Creating firmware_iot_borda on device m-1-33
+Creating firmware_iot_borda on device m-0-67
+Creating firmware_iot_borda on device m-1-36
+Creating firmware_iot_borda on device m-0-68
+Creating firmware_iot_borda on device m-1-35
+Creating firmware_iot_borda on device m-0-58
+Creating firmware_iot_borda on device m-1-27
+Creating firmware_iot_borda on device m-0-59
+Creating firmware_iot_borda on device m-1-26
+Creating firmware_iot_borda on device m-1-29
+Creating firmware_iot_borda on device m-1-28
+Creating firmware_iot_borda on device m-0-2
+Creating firmware_iot_borda on device m-0-1
+Creating firmware_iot_borda on device m-0-4
+Creating firmware_iot_borda on device m-0-3
+Creating firmware_iot_borda on device m-0-0
+Creating firmware_iot_borda on device m-0-70
+Creating firmware_iot_borda on device m-0-71
+Creating firmware_iot_borda on device m-0-72
+Creating firmware_iot_borda on device m-1-41
+Creating firmware_iot_borda on device m-0-9
+Creating firmware_iot_borda on device m-0-73
+Creating firmware_iot_borda on device m-1-40
+Creating firmware_iot_borda on device m-0-74
+Creating firmware_iot_borda on device m-1-43
+Creating firmware_iot_borda on device m-1-42
+Creating firmware_iot_borda on device m-0-6
+Creating firmware_iot_borda on device m-1-45
+Creating firmware_iot_borda on device m-0-5
+Creating firmware_iot_borda on device m-1-44
+Creating firmware_iot_borda on device m-0-8
+Creating firmware_iot_borda on device m-1-47
+Creating firmware_iot_borda on device m-0-7
+Creating firmware_iot_borda on device m-1-46
+Creating firmware_iot_borda on device m-0-69
+Creating firmware_iot_borda on device m-1-38
+Creating firmware_iot_borda on device m-1-37
+Creating firmware_iot_borda on device m-1-39
+Creating firmware_iot_borda on device m-1-50
+Creating firmware_iot_borda on device m-1-52
+Creating firmware_iot_borda on device m-1-51
+Creating firmware_iot_borda on device m-1-54
+Creating firmware_iot_borda on device m-1-53
+Creating firmware_iot_borda on device m-1-56
+Creating firmware_iot_borda on device m-1-55
+Creating firmware_iot_borda on device m-1-58
+Creating firmware_iot_borda on device m-1-57
+Creating pre_proc_dados_iot on device cloud
+Creating firmware_iot_borda on device m-1-49
+Creating firmware_iot_borda on device m-1-48
+Creating firmware_iot_borda on device m-1-61
+Creating firmware_iot_borda on device m-1-60
+Creating firmware_iot_borda on device m-1-63
+Creating firmware_iot_borda on device m-1-62
+Creating firmware_iot_borda on device m-1-65
+Creating firmware_iot_borda on device m-1-64
+Creating firmware_iot_borda on device m-0-10
+Creating firmware_iot_borda on device m-1-67
+Creating firmware_iot_borda on device m-0-11
+Creating firmware_iot_borda on device m-1-66
+Creating firmware_iot_borda on device m-0-12
+Creating firmware_iot_borda on device m-1-69
+Creating firmware_iot_borda on device m-0-13
+Creating firmware_iot_borda on device m-1-68
+Creating firmware_iot_borda on device m-1-59
+Creating firmware_iot_borda on device m-1-70
+Creating firmware_iot_borda on device m-1-72
+Creating firmware_iot_borda on device m-1-71
+Creating firmware_iot_borda on device m-1-74
+Creating firmware_iot_borda on device m-1-73
+Creating firmware_iot_borda on device m-0-20
+Creating firmware_iot_borda on device m-0-21
+Creating firmware_iot_borda on device m-0-22
+Creating firmware_iot_borda on device m-0-23
+Creating firmware_iot_borda on device m-0-24
+Creating firmware_iot_borda on device m-0-14
+Creating firmware_iot_borda on device m-0-15
+Creating firmware_iot_borda on device m-0-16
+Creating firmware_iot_borda on device m-0-17
+Creating firmware_iot_borda on device m-0-18
+Creating firmware_iot_borda on device m-0-19
+Creating firmware_iot_borda on device m-0-30
+Creating firmware_iot_borda on device m-0-31
+Creating firmware_iot_borda on device m-0-32
+Creating firmware_iot_borda on device m-0-33
+Creating firmware_iot_borda on device m-0-34
+Creating firmware_iot_borda on device m-0-35
+Creating firmware_iot_borda on device m-0-25
+Creating firmware_iot_borda on device m-0-26
+Creating firmware_iot_borda on device m-0-27
+Creating firmware_iot_borda on device m-0-28
+Creating firmware_iot_borda on device m-0-29
+0,0 Submitted application HIT_MonitRessonancia
+=========================================
+============== RESULTS ==================
+=========================================
+EXECUTION TIME : 22280
+=========================================
+APPLICATION LOOP DELAYS
+=========================================
+[DHT22_temp, DHT22_umid, ZMPT101B_volt, SCT-013_corr, firmware_iot_borda] ---> 0,49815153622682595
+=========================================
+TUPLE CPU EXECUTION DELAY
+=========================================
+DADOS_IOT_BORDA ---> 0,06667270932961647
+DADOS_IOT_CLOUD ---> 0,10066666666669732
+SCT-013_corr ---> 0,07838231914633664
+ZMPT101B_volt ---> 0,0988015760570914
+DHT22_temp ---> 0,10027803049939137
+DHT22_umid ---> 0,10052765707117112
+=========================================
+cloud : Energy Consumed = 2696430,981821272
+proxy-server : Energy Consumed = 166866,59999999995
+g-0 : Energy Consumed = 166866,59999999995
+m-0-0 : Energy Consumed = 166456,04651203842
+m-0-1 : Energy Consumed = 132468,40290437057
+m-0-2 : Energy Consumed = 174823,07354786393
+m-0-3 : Energy Consumed = 149157,55766200717
+m-0-4 : Energy Consumed = 149490,145228061
+m-0-5 : Energy Consumed = 157791,6754779931
+m-0-6 : Energy Consumed = 140697,0999253663
+m-0-7 : Energy Consumed = 174731,47452400374
+m-0-8 : Energy Consumed = 157714,9830820475
+m-0-9 : Energy Consumed = 174715,9026473658
+m-0-10 : Energy Consumed = 157659,5873345965
+m-0-11 : Energy Consumed = 166421,17801719715
+m-0-12 : Energy Consumed = 149260,69574459482
+m-0-13 : Energy Consumed = 166232,82792932377
+m-0-14 : Energy Consumed = 174682,57081983137
+m-0-15 : Energy Consumed = 149400,3720439551
+m-0-16 : Energy Consumed = 166302,7674948222
+m-0-17 : Energy Consumed = 166342,8912236168
+m-0-18 : Energy Consumed = 174804,21286746147
+m-0-19 : Energy Consumed = 166269,6472915162
+m-0-20 : Energy Consumed = 166240,3058604338
+m-0-21 : Energy Consumed = 166398,13650915556
+m-0-22 : Energy Consumed = 149220,9743215984
+m-0-23 : Energy Consumed = 140942,85645642507
+m-0-24 : Energy Consumed = 140720,75523625058
+m-0-25 : Energy Consumed = 166217,46778091483
+m-0-26 : Energy Consumed = 166159,14713701874
+m-0-27 : Energy Consumed = 174827,39247119118
+m-0-28 : Energy Consumed = 149296,32086500258
+m-0-29 : Energy Consumed = 174815,22254325508
+m-0-30 : Energy Consumed = 140907,26887180025
+m-0-31 : Energy Consumed = 140649,84622814183
+m-0-32 : Energy Consumed = 174662,63927493693
+m-0-33 : Energy Consumed = 140724,12279142396
+m-0-34 : Energy Consumed = 166316,48860101233
+m-0-35 : Energy Consumed = 166320,89975547904
+m-0-36 : Energy Consumed = 157813,26016720073
+m-0-37 : Energy Consumed = 149407,93989334145
+m-0-38 : Energy Consumed = 174659,4787093087
+m-0-39 : Energy Consumed = 174813,06654870205
+m-0-40 : Energy Consumed = 166448,01698110916
+m-0-41 : Energy Consumed = 174781,5526971259
+m-0-42 : Energy Consumed = 157650,327940156
+m-0-43 : Energy Consumed = 166441,13621533403
+m-0-44 : Energy Consumed = 157833,2115096704
+m-0-45 : Energy Consumed = 166384,37645063674
+m-0-46 : Energy Consumed = 132452,86914571116
+m-0-47 : Energy Consumed = 157903,08971951628
+m-0-48 : Energy Consumed = 166360,96348615448
+m-0-49 : Energy Consumed = 140907,06314762624
+m-0-50 : Energy Consumed = 166295,82863233326
+m-0-51 : Energy Consumed = 166284,28018197438
+m-0-52 : Energy Consumed = 174891,45147579268
+m-0-53 : Energy Consumed = 174773,001510133
+m-0-54 : Energy Consumed = 166151,00509075774
+m-0-55 : Energy Consumed = 166403,41491734807
+m-0-56 : Energy Consumed = 166274,04518541248
+m-0-57 : Energy Consumed = 174703,61647234764
+m-0-58 : Energy Consumed = 140969,99287674084
+m-0-59 : Energy Consumed = 174679,85292299045
+m-0-60 : Energy Consumed = 149270,6969150296
+m-0-61 : Energy Consumed = 174734,75854949644
+m-0-62 : Energy Consumed = 174830,58726431447
+m-0-63 : Energy Consumed = 157866,24851323786
+m-0-64 : Energy Consumed = 149400,31310653515
+m-0-65 : Energy Consumed = 174766,01635075492
+m-0-66 : Energy Consumed = 166189,22530795878
+m-0-67 : Energy Consumed = 157682,04727794847
+m-0-68 : Energy Consumed = 166201,94360569553
+m-0-69 : Energy Consumed = 166189,73367750505
+m-0-70 : Energy Consumed = 174689,64483956154
+m-0-71 : Energy Consumed = 166190,3836221493
+m-0-72 : Energy Consumed = 166222,04432237314
+m-0-73 : Energy Consumed = 140965,52740776012
+m-0-74 : Energy Consumed = 166281,35986599853
+g-1 : Energy Consumed = 166866,59999999995
+m-1-0 : Energy Consumed = 166218,6633283247
+m-1-1 : Energy Consumed = 166216,04470359592
+m-1-2 : Energy Consumed = 174709,61007916392
+m-1-3 : Energy Consumed = 174690,93964896168
+m-1-4 : Energy Consumed = 166182,99573537425
+m-1-5 : Energy Consumed = 166388,77006484807
+m-1-6 : Energy Consumed = 166376,9318409331
+m-1-7 : Energy Consumed = 166394,37599893488
+m-1-8 : Energy Consumed = 166186,69332476583
+m-1-9 : Energy Consumed = 166288,0205898895
+m-1-10 : Energy Consumed = 174772,9339417268
+m-1-11 : Energy Consumed = 174805,85336861372
+m-1-12 : Energy Consumed = 166183,73140957553
+m-1-13 : Energy Consumed = 174761,38459333533
+m-1-14 : Energy Consumed = 166353,7038686098
+m-1-15 : Energy Consumed = 166204,70027448214
+m-1-16 : Energy Consumed = 166292,41310778089
+m-1-17 : Energy Consumed = 174930,4006778
+m-1-18 : Energy Consumed = 166235,2687027332
+m-1-19 : Energy Consumed = 166343,28875463837
+m-1-20 : Energy Consumed = 166176,65138138062
+m-1-21 : Energy Consumed = 174740,19344124474
+m-1-22 : Energy Consumed = 174710,60547893078
+m-1-23 : Energy Consumed = 166239,32332480978
+m-1-24 : Energy Consumed = 157873,60396926777
+m-1-25 : Energy Consumed = 157726,43224563415
+m-1-26 : Energy Consumed = 166221,95556955773
+m-1-27 : Energy Consumed = 166187,64823082622
+m-1-28 : Energy Consumed = 174736,58575853065
+m-1-29 : Energy Consumed = 157794,56665456935
+m-1-30 : Energy Consumed = 174689,9786188375
+m-1-31 : Energy Consumed = 166318,0453108227
+m-1-32 : Energy Consumed = 149471,77190316987
+m-1-33 : Energy Consumed = 132526,81782251067
+m-1-34 : Energy Consumed = 166410,21588438097
+m-1-35 : Energy Consumed = 174693,98960641213
+m-1-36 : Energy Consumed = 149360,57606664396
+m-1-37 : Energy Consumed = 166237,822996525
+m-1-38 : Energy Consumed = 149287,24419518464
+m-1-39 : Energy Consumed = 140920,25175309592
+m-1-40 : Energy Consumed = 166335,31594782454
+m-1-41 : Energy Consumed = 149230,02715482825
+m-1-42 : Energy Consumed = 174833,43592942378
+m-1-43 : Energy Consumed = 166314,64620903484
+m-1-44 : Energy Consumed = 149480,46525073083
+m-1-45 : Energy Consumed = 174744,54058586675
+m-1-46 : Energy Consumed = 157932,44222671966
+m-1-47 : Energy Consumed = 174843,05091899293
+m-1-48 : Energy Consumed = 166382,70574089748
+m-1-49 : Energy Consumed = 140772,1785573394
+m-1-50 : Energy Consumed = 174899,7202399969
+m-1-51 : Energy Consumed = 149449,424850357
+m-1-52 : Energy Consumed = 149351,0565777233
+m-1-53 : Energy Consumed = 174728,96685919043
+m-1-54 : Energy Consumed = 166185,0809081493
+m-1-55 : Energy Consumed = 166214,1021775894
+m-1-56 : Energy Consumed = 140718,10477819963
+m-1-57 : Energy Consumed = 174695,11429734982
+m-1-58 : Energy Consumed = 166294,6342667675
+m-1-59 : Energy Consumed = 166212,39076522563
+m-1-60 : Energy Consumed = 166279,7852884869
+m-1-61 : Energy Consumed = 166220,35549783567
+m-1-62 : Energy Consumed = 174673,89685606427
+m-1-63 : Energy Consumed = 166260,46660484208
+m-1-64 : Energy Consumed = 166279,55533421974
+m-1-65 : Energy Consumed = 140723,76069948252
+m-1-66 : Energy Consumed = 174740,0140038424
+m-1-67 : Energy Consumed = 174794,3876909608
+m-1-68 : Energy Consumed = 166276,78126381637
+m-1-69 : Energy Consumed = 166169,67948765287
+m-1-70 : Energy Consumed = 157702,9002791557
+m-1-71 : Energy Consumed = 166243,35699263145
+m-1-72 : Energy Consumed = 140876,07212753964
+m-1-73 : Energy Consumed = 140894,82287009852
+m-1-74 : Energy Consumed = 157767,9251592028
+Cost of execution in cloud = 7071698,741749014
+Total network usage = 375,29436051828606
+Energia iot usada: 24390915
+Energia gateway usada: 333732
+Energia proxy usada: 166866
+Energia total usada: 27587943

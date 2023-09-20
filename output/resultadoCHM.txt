@@ -1,0 +1,240 @@
+Starting Cardiovascular Health Monitoring Application...
+The dataset: .\dataset\random_usersLocation-melbCBD_1.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_2.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_3.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_4.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_5.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_6.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_7.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_8.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_9.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_10.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_11.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_12.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_13.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_14.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_15.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_16.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_17.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_18.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_19.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_20.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_21.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_22.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_23.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_24.csv exists already.
+The dataset: .\dataset\random_usersLocation-melbCBD_25.csv exists already.
+The Mobility dataset used in this simulation for user: 1 is: .\dataset\random_usersLocation-melbCBD_1.csv
+The Mobility dataset used in this simulation for user: 2 is: .\dataset\random_usersLocation-melbCBD_2.csv
+The Mobility dataset used in this simulation for user: 3 is: .\dataset\random_usersLocation-melbCBD_3.csv
+The Mobility dataset used in this simulation for user: 4 is: .\dataset\random_usersLocation-melbCBD_4.csv
+The Mobility dataset used in this simulation for user: 5 is: .\dataset\random_usersLocation-melbCBD_5.csv
+The Mobility dataset used in this simulation for user: 6 is: .\dataset\random_usersLocation-melbCBD_6.csv
+The Mobility dataset used in this simulation for user: 7 is: .\dataset\random_usersLocation-melbCBD_7.csv
+The Mobility dataset used in this simulation for user: 8 is: .\dataset\random_usersLocation-melbCBD_8.csv
+The Mobility dataset used in this simulation for user: 9 is: .\dataset\random_usersLocation-melbCBD_9.csv
+The Mobility dataset used in this simulation for user: 10 is: .\dataset\random_usersLocation-melbCBD_10.csv
+The Mobility dataset used in this simulation for user: 11 is: .\dataset\random_usersLocation-melbCBD_11.csv
+The Mobility dataset used in this simulation for user: 12 is: .\dataset\random_usersLocation-melbCBD_12.csv
+The Mobility dataset used in this simulation for user: 13 is: .\dataset\random_usersLocation-melbCBD_13.csv
+The Mobility dataset used in this simulation for user: 14 is: .\dataset\random_usersLocation-melbCBD_14.csv
+The Mobility dataset used in this simulation for user: 15 is: .\dataset\random_usersLocation-melbCBD_15.csv
+The Mobility dataset used in this simulation for user: 16 is: .\dataset\random_usersLocation-melbCBD_16.csv
+The Mobility dataset used in this simulation for user: 17 is: .\dataset\random_usersLocation-melbCBD_17.csv
+The Mobility dataset used in this simulation for user: 18 is: .\dataset\random_usersLocation-melbCBD_18.csv
+The Mobility dataset used in this simulation for user: 19 is: .\dataset\random_usersLocation-melbCBD_19.csv
+The Mobility dataset used in this simulation for user: 20 is: .\dataset\random_usersLocation-melbCBD_20.csv
+The Mobility dataset used in this simulation for user: 21 is: .\dataset\random_usersLocation-melbCBD_21.csv
+The Mobility dataset used in this simulation for user: 22 is: .\dataset\random_usersLocation-melbCBD_22.csv
+The Mobility dataset used in this simulation for user: 23 is: .\dataset\random_usersLocation-melbCBD_23.csv
+The Mobility dataset used in this simulation for user: 24 is: .\dataset\random_usersLocation-melbCBD_24.csv
+The Mobility dataset used in this simulation for user: 25 is: .\dataset\random_usersLocation-melbCBD_25.csv
+Locator def
+1
+Child mobile_0	----->	Parent gateway_1
+Child mobile_1	----->	Parent gateway_1
+Child mobile_2	----->	Parent gateway_1
+Child mobile_3	----->	Parent gateway_1
+Child mobile_4	----->	Parent gateway_1
+Child mobile_5	----->	Parent gateway_1
+Child mobile_6	----->	Parent gateway_1
+Child mobile_7	----->	Parent gateway_1
+Child mobile_8	----->	Parent gateway_1
+Child mobile_9	----->	Parent gateway_1
+Child mobile_10	----->	Parent gateway_1
+Child mobile_11	----->	Parent gateway_1
+Child mobile_12	----->	Parent gateway_1
+Child mobile_13	----->	Parent gateway_1
+Child mobile_14	----->	Parent gateway_1
+Child mobile_15	----->	Parent gateway_1
+Child mobile_16	----->	Parent gateway_1
+Child mobile_17	----->	Parent gateway_1
+Child mobile_18	----->	Parent gateway_1
+Child mobile_19	----->	Parent gateway_1
+Child mobile_20	----->	Parent gateway_1
+Child mobile_21	----->	Parent gateway_1
+Child mobile_22	----->	Parent gateway_1
+Child mobile_23	----->	Parent gateway_1
+Child mobile_24	----->	Parent gateway_1
+Child proxy-server_0	----->	Parent cloud
+Child gateway_0	----->	Parent proxy-server_0
+Child gateway_1	----->	Parent proxy-server_0
+Child gateway_2	----->	Parent proxy-server_0
+Child gateway_3	----->	Parent proxy-server_0
+Child gateway_4	----->	Parent proxy-server_0
+Child gateway_5	----->	Parent proxy-server_0
+Cluster formation : 
+Routing Table : 
+mobile_23 : {mobile_23=mobile_23, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_24 : {mobile_23=gateway_1, mobile_24=mobile_24, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_21 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=mobile_21, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_22 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=mobile_22, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_20 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=mobile_20, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+cloud : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=cloud, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=proxy-server_0, gateway_2=proxy-server_0, gateway_1=proxy-server_0, gateway_4=proxy-server_0, gateway_3=proxy-server_0, mobile_0=proxy-server_0, gateway_5=proxy-server_0, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+mobile_18 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=mobile_18, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_19 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=mobile_19, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_16 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=mobile_16, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_17 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=mobile_17, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_14 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=mobile_14, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_15 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=mobile_15, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_12 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=mobile_12, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_13 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=mobile_13, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_10 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=mobile_10, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_11 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=mobile_11, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_5 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=mobile_5, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_6 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=mobile_6, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_7 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=mobile_7, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_8 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=mobile_8, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_9 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=mobile_9, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+gateway_0 : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=proxy-server_0, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=gateway_0, gateway_2=proxy-server_0, gateway_1=proxy-server_0, gateway_4=proxy-server_0, gateway_3=proxy-server_0, mobile_0=proxy-server_0, gateway_5=proxy-server_0, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+gateway_2 : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=proxy-server_0, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=proxy-server_0, gateway_2=gateway_2, gateway_1=proxy-server_0, gateway_4=proxy-server_0, gateway_3=proxy-server_0, mobile_0=proxy-server_0, gateway_5=proxy-server_0, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+gateway_1 : {mobile_23=mobile_23, mobile_24=mobile_24, mobile_21=mobile_21, mobile_22=mobile_22, mobile_20=mobile_20, cloud=proxy-server_0, mobile_18=mobile_18, mobile_19=mobile_19, mobile_16=mobile_16, mobile_17=mobile_17, mobile_14=mobile_14, mobile_15=mobile_15, mobile_12=mobile_12, mobile_13=mobile_13, mobile_10=mobile_10, mobile_11=mobile_11, mobile_5=mobile_5, mobile_6=mobile_6, mobile_7=mobile_7, mobile_8=mobile_8, mobile_9=mobile_9, gateway_0=proxy-server_0, gateway_2=proxy-server_0, gateway_1=gateway_1, gateway_4=proxy-server_0, gateway_3=proxy-server_0, mobile_0=mobile_0, gateway_5=proxy-server_0, mobile_1=mobile_1, mobile_2=mobile_2, mobile_3=mobile_3, proxy-server_0=proxy-server_0, mobile_4=mobile_4}
+gateway_4 : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=proxy-server_0, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=proxy-server_0, gateway_2=proxy-server_0, gateway_1=proxy-server_0, gateway_4=gateway_4, gateway_3=proxy-server_0, mobile_0=proxy-server_0, gateway_5=proxy-server_0, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+gateway_3 : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=proxy-server_0, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=proxy-server_0, gateway_2=proxy-server_0, gateway_1=proxy-server_0, gateway_4=proxy-server_0, gateway_3=gateway_3, mobile_0=proxy-server_0, gateway_5=proxy-server_0, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+mobile_0 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=mobile_0, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+gateway_5 : {mobile_23=proxy-server_0, mobile_24=proxy-server_0, mobile_21=proxy-server_0, mobile_22=proxy-server_0, mobile_20=proxy-server_0, cloud=proxy-server_0, mobile_18=proxy-server_0, mobile_19=proxy-server_0, mobile_16=proxy-server_0, mobile_17=proxy-server_0, mobile_14=proxy-server_0, mobile_15=proxy-server_0, mobile_12=proxy-server_0, mobile_13=proxy-server_0, mobile_10=proxy-server_0, mobile_11=proxy-server_0, mobile_5=proxy-server_0, mobile_6=proxy-server_0, mobile_7=proxy-server_0, mobile_8=proxy-server_0, mobile_9=proxy-server_0, gateway_0=proxy-server_0, gateway_2=proxy-server_0, gateway_1=proxy-server_0, gateway_4=proxy-server_0, gateway_3=proxy-server_0, mobile_0=proxy-server_0, gateway_5=gateway_5, mobile_1=proxy-server_0, mobile_2=proxy-server_0, mobile_3=proxy-server_0, proxy-server_0=proxy-server_0, mobile_4=proxy-server_0}
+mobile_1 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=mobile_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_2 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=mobile_2, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=gateway_1}
+mobile_3 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=mobile_3, proxy-server_0=gateway_1, mobile_4=gateway_1}
+proxy-server_0 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=cloud, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_0, gateway_2=gateway_2, gateway_1=gateway_1, gateway_4=gateway_4, gateway_3=gateway_3, mobile_0=gateway_1, gateway_5=gateway_5, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=proxy-server_0, mobile_4=gateway_1}
+mobile_4 : {mobile_23=gateway_1, mobile_24=gateway_1, mobile_21=gateway_1, mobile_22=gateway_1, mobile_20=gateway_1, cloud=gateway_1, mobile_18=gateway_1, mobile_19=gateway_1, mobile_16=gateway_1, mobile_17=gateway_1, mobile_14=gateway_1, mobile_15=gateway_1, mobile_12=gateway_1, mobile_13=gateway_1, mobile_10=gateway_1, mobile_11=gateway_1, mobile_5=gateway_1, mobile_6=gateway_1, mobile_7=gateway_1, mobile_8=gateway_1, mobile_9=gateway_1, gateway_0=gateway_1, gateway_2=gateway_1, gateway_1=gateway_1, gateway_4=gateway_1, gateway_3=gateway_1, mobile_0=gateway_1, gateway_5=gateway_1, mobile_1=gateway_1, mobile_2=gateway_1, mobile_3=gateway_1, proxy-server_0=gateway_1, mobile_4=mobile_4}
+
+
+0.0 Start sending Clustering Request to Fog Devices in level: [2]
+0.0 fog Device: mobile_0 with id: 3 is at level: 3
+0.0 fog Device: mobile_1 with id: 6 is at level: 3
+0.0 fog Device: mobile_2 with id: 9 is at level: 3
+0.0 fog Device: mobile_3 with id: 12 is at level: 3
+0.0 fog Device: mobile_4 with id: 15 is at level: 3
+0.0 fog Device: mobile_5 with id: 18 is at level: 3
+0.0 fog Device: mobile_6 with id: 21 is at level: 3
+0.0 fog Device: mobile_7 with id: 24 is at level: 3
+0.0 fog Device: mobile_8 with id: 27 is at level: 3
+0.0 fog Device: mobile_9 with id: 30 is at level: 3
+0.0 fog Device: mobile_10 with id: 33 is at level: 3
+0.0 fog Device: mobile_11 with id: 36 is at level: 3
+0.0 fog Device: mobile_12 with id: 39 is at level: 3
+0.0 fog Device: mobile_13 with id: 42 is at level: 3
+0.0 fog Device: mobile_14 with id: 45 is at level: 3
+0.0 fog Device: mobile_15 with id: 48 is at level: 3
+0.0 fog Device: mobile_16 with id: 51 is at level: 3
+0.0 fog Device: mobile_17 with id: 54 is at level: 3
+0.0 fog Device: mobile_18 with id: 57 is at level: 3
+0.0 fog Device: mobile_19 with id: 60 is at level: 3
+0.0 fog Device: mobile_20 with id: 63 is at level: 3
+0.0 fog Device: mobile_21 with id: 66 is at level: 3
+0.0 fog Device: mobile_22 with id: 69 is at level: 3
+0.0 fog Device: mobile_23 with id: 72 is at level: 3
+0.0 fog Device: mobile_24 with id: 75 is at level: 3
+0.0 fog Device: cloud with id: 78 is at level: 0
+0.0 fog Device: proxy-server_0 with id: 79 is at level: 1
+0.0 fog Device: gateway_0 with id: 80 is at level: 2
+0.0 fog Device: gateway_1 with id: 81 is at level: 2
+0.0 fog Device: gateway_2 with id: 82 is at level: 2
+0.0 fog Device: gateway_3 with id: 83 is at level: 2
+0.0 fog Device: gateway_4 with id: 84 is at level: 2
+0.0 fog Device: gateway_5 with id: 85 is at level: 2
+Module clientModulecreated on mobile_0 under Launch module
+Module clientModulecreated on mobile_1 under Launch module
+Module clientModulecreated on mobile_2 under Launch module
+Module clientModulecreated on mobile_3 under Launch module
+Module clientModulecreated on mobile_4 under Launch module
+Module clientModulecreated on mobile_5 under Launch module
+Module clientModulecreated on mobile_6 under Launch module
+Module clientModulecreated on mobile_7 under Launch module
+Module clientModulecreated on mobile_8 under Launch module
+Module clientModulecreated on mobile_9 under Launch module
+Module clientModulecreated on mobile_10 under Launch module
+Module clientModulecreated on mobile_11 under Launch module
+Module clientModulecreated on mobile_12 under Launch module
+Module clientModulecreated on mobile_13 under Launch module
+Module clientModulecreated on mobile_14 under Launch module
+Module clientModulecreated on mobile_15 under Launch module
+Module clientModulecreated on mobile_16 under Launch module
+Module clientModulecreated on mobile_17 under Launch module
+Module clientModulecreated on mobile_18 under Launch module
+Module clientModulecreated on mobile_19 under Launch module
+Module clientModulecreated on mobile_20 under Launch module
+Module clientModulecreated on mobile_21 under Launch module
+Module clientModulecreated on mobile_22 under Launch module
+Module clientModulecreated on mobile_23 under Launch module
+Module clientModulecreated on mobile_24 under Launch module
+The Fog Device: res_2 with id: 80 and parent id: 79 has these cluster members: []
+The Fog Device: res_3 with id: 81 and parent id: 79 has these cluster members: []
+The Fog Device: res_4 with id: 82 and parent id: 79 has these cluster members: []
+The Fog Device: res_5 with id: 83 and parent id: 79 has these cluster members: []
+The Fog Device: res_6 with id: 84 and parent id: 79 has these cluster members: []
+The Fog Device: res_7 with id: 85 and parent id: 79 has these cluster members: []
+0.0 Starting Mobility Management for mobile_0
+0.0 Starting Mobility Management for mobile_1
+0.0 Starting Mobility Management for mobile_2
+0.0 Starting Mobility Management for mobile_3
+0.0 Starting Mobility Management for mobile_4
+0.0 Starting Mobility Management for mobile_5
+0.0 Starting Mobility Management for mobile_6
+0.0 Starting Mobility Management for mobile_7
+0.0 Starting Mobility Management for mobile_8
+0.0 Starting Mobility Management for mobile_9
+0.0 Starting Mobility Management for mobile_10
+0.0 Starting Mobility Management for mobile_11
+0.0 Starting Mobility Management for mobile_12
+0.0 Starting Mobility Management for mobile_13
+0.0 Starting Mobility Management for mobile_14
+0.0 Starting Mobility Management for mobile_15
+0.0 Starting Mobility Management for mobile_16
+0.0 Starting Mobility Management for mobile_17
+0.0 Starting Mobility Management for mobile_18
+0.0 Starting Mobility Management for mobile_19
+0.0 Starting Mobility Management for mobile_20
+0.0 Starting Mobility Management for mobile_21
+0.0 Starting Mobility Management for mobile_22
+0.0 Starting Mobility Management for mobile_23
+0.0 Starting Mobility Management for mobile_24
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService3 on device cloud successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device gateway_1 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
+Placement of operator mService1 on device proxy-server_0 successful.
